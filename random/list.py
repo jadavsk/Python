@@ -17,7 +17,7 @@ for x in range(0,len(inp)):
             f = 2
     if f == 1:
         din.append(inp[x])
-       # print(inp[x])
+       
   
 print(dict(zip(inp, inp)).keys())
 
